@@ -5,19 +5,17 @@
 ## Table of Contents
 
 * [Description](#description)
-* [Deployed Application Video](#deployed-application-video)  
+* [Deployed Application Link](#deployed-application-video)  
 * [License](#license)    
 * [Contributing](#contributing)
 * [Questions](#questions)
 
 ### Description
-Created a simple text editor app that can function both online and offline. Needed to use a variety of data persistence options in order to ensure that data is not lost in any scenario. The application first looks to use the data in the indexedDB to populate the editor, then if it cannot access that it will use local storage. For use offline, this application can be downloaded to your desktop as an application. This application is helpful to developers because they can use this as a scratch pad for code snippets and coding ideas. User story is below.
-
-To use this app, simply open it up in the browser (with the deployed app link at the top of this readme) and then you are good to go. For offline use, the user can go to the link and hit the "install" button at the top left corner of the page.
+Simple text editor app that can function both online and offline. Has variety of data persistence options in order to ensure that data is not lost in any scenario. The application looks to use the data in the indexedDB to populate the editor, if it cannot access the database it will use local storage for use offline. This editor can also be downloaded and installed for desktop use. Application may be helpful to developers as they can use this as a note pad for code snippets and ideas.
   
-### Deployed Application Video
+### Deployed Application Link
   
-[Deployed Application Video link]()
+[Deployed Application Heroku Link]()
 
 ### License
 
