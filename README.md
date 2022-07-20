@@ -16,6 +16,7 @@ Simple text editor app that can function both online and offline. Has variety of
 ### Deployed Application Link
   
 [Deployed Application Heroku Link]()
+**Unable to deploy on Heroku due to npm version issues. Currently troubleshooting**
 
 ### License
 
